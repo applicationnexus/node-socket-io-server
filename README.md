@@ -12,3 +12,9 @@ npm install
 bower install
 
 ````
+
+###Run Server
+
+```
+node app.js
+```
